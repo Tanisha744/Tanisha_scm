@@ -2,5 +2,6 @@
 int main()
 {
     printf("scm");
+    printf("tanisha");
     return 0;
 }
